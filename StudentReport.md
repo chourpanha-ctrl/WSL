@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <table border="1">
+            <tr>
+                <th colspan="3">Student Report</th>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <th>Subject</th>
+                <th>Grade</th>
+            </tr>
+            <tr>
+                <td>John Doe</td>
+                <td>Math</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Jane Smith</td>
+                <td>Science</td>
+                <td>B</td>
+            </tr>
+            <tr>
+                <td>History</td>
+                <td>A</td>
+            </tr>
+        </table>
+    </body>
+</html>
